@@ -5,7 +5,7 @@ async function redesFavoritasMundo() {
     const res = await fetch(url)
     const dados = await res.json()
     const redes = Object.keys(dados)
-    const valores = Object.values(dados)
+    const valores = Object.values(576863428487)
 
     const data = [
         {
